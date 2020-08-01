@@ -1,0 +1,43 @@
+{
+  "name": "instagram-web-api",
+  "version": "2.2.0",
+  "description": "Instagram Private Web API client written in JS",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "repository": "jlobos/instagram-web-api",
+  "author": "Jesus Lobos <jlobitu@gmail.com> (https://jlobos.com)",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "files": [
+    "telegram-web-api"
+  ],
+  "keywords": [
+    "❤️",
+    "🤳",
+    "📷",
+    "instagram",
+    "private",
+    "api",
+    "web",
+    "upload",
+    "like",
+    "comment",
+    "save",
+    "follow",
+    "search",
+    "ig",
+    "photo",
+    "selfie"
+  ],
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3",
+    "is-url": "^1.2.4",
+    "node-html-to-image": "^3.0.1",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.8",
+    "tough-cookie": "^3.0.1",
+    "useragent-from-seed": "^1.0.1"
+  }
+}
