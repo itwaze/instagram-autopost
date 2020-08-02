@@ -1,6 +1,6 @@
 ### Introduction
 
- <p>Very simple instagram autoposter based on <code>telegram-web-api</code> - https://github.com/jlobos/instagram-web-api </p>
+ <p>Very simple instagram autoposter based on <a href='https://github.com/jlobos/instagram-web-api'>telegram-web-api</a> </p>
 
 Thanks to @codexJoin for the patch <code>uploadPhoto</code> method and https://dribbble.com for the images.
 
